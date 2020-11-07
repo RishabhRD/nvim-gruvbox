@@ -6,7 +6,7 @@ Heavily inspired from [tjdevries/gruvbuddy.nvim](https://github.com/tjdevries/gr
 
 Gruvbox escape sequenced colorscheme.
 
-![screen](./media/nvim-gruvbox.png)
+![screen](./media/nvim-gruvbox-screenshot.png)
 
 This plugin is also an example of how easy it is to customize and make new colorschemes based on `colorbuddy`.
 
