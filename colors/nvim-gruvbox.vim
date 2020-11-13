@@ -1,1 +1,1 @@
-
+lua require('nvim-gruvbox')
